@@ -2,7 +2,6 @@
 import { ref } from 'vue'
 
 const nome = ref('')
-const senha = ref('')
 const email = ref('')
 const idade = ref()
 const confirmaUsuario = ref(false)
